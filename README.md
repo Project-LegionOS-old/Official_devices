@@ -15,6 +15,8 @@ You must fulfill the following requirements before applying:
 
 - [Maintainers' code of conduct](https://github.com/Project-LegionOS/docs/blob/master/maintainers_code_of_conduct.md)
 
+- [Official Maintainers](https://github.com/Project-LegionOS/docs/blob/master/maintainers.md)
+
 You must be aware that just fulfilling these requirements doesn't necessarily mean that you're going to be accepted. We will also consider some other points if necessary, like experience or how your behavior is towards other people (users or otherwise), and even with some technical stuff.
 
 ### 2. OTA and Hosting
